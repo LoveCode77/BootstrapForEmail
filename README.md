@@ -30,6 +30,7 @@ https://github.com/AdvancedREI/BootstrapForEmail/issues
 Twitter account
 ---------------
 
+good!!!
 Keep up to date on announcements and more by following AdvancedREI on Twitter, [@AdvancedREI](http://twitter.com/AdvancedREI).
 
 
